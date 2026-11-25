@@ -1,6 +1,6 @@
 [
   {"id": 1, "letter": "Twinkle...","imageUrl": "apple.png","audioUrl": "twinkle.mp3","lyrics":"Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky."},
-  {"id": 2, "letter": "123ABC...","imageUrl": "micmouse.gif","audioUrl": "abc.mp3","lyrics":"A, B, C, D, E, F, G\nH, I, J, K, L, M, N, O, P\nQ, R, S, T, U, V\nW, X, Y, Z\nNow I know my ABCs.\nNext time won’t you sing with me?"},
+  {"id": 2, "letter": "ABC...","imageUrl": "micmouse.gif","audioUrl": "abc.mp3","lyrics":"A, B, C, D, E, F, G\nH, I, J, K, L, M, N, O, P\nQ, R, S, T, U, V\nW, X, Y, Z\nNow I know my ABCs.\nNext time won’t you sing with me?"},
   {"id": 3, "letter": "Cobbler...", "imageUrl": "cat.png","audioUrl": "cobbler.mp3","lyrics":"Cobbler, cobbler, mend my shoe.\nGet it done by half past two.\nStitch it up and stitch it down.\nThen I’ll give you half a crown."},
   {"id": 4, "letter": "Hickory...","imageUrl": "dog.png","audioUrl": "hecari.mp3","lyrics":"Hickory, dickory, dock,\nThe mouse ran up the clock,\nThe clock struck one,\nAnd down he run,\nHickory, dickory, dock."},
   {"id": 5, "letter": "Ring-a...","imageUrl": "elephant.png","audioUrl": "ringa.mp3","lyrics":"Ring-a-ring o' roses,\nA pocket full of posies.\nA-tishoo! A-tishoo!\nWe all fall down!"},
