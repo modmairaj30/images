@@ -1,0 +1,14 @@
+[
+  {"id": 1, "letter": "Twinkle...","imageUrl": "apple.png","audioUrl": "twinkle.mp3","lyrics":"Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky."},
+  {"id": 2, "letter": "ABC...","imageUrl": "micmouse.gif","audioUrl": "abc.mp3","lyrics":"A, B, C, D, E, F, G\nH, I, J, K, L, M, N, O, P\nQ, R, S, T, U, V\nW, X, Y, Z\nNow I know my ABCs.\nNext time won’t you sing with me?"},
+  {"id": 3, "letter": "Cobbler...", "imageUrl": "cat.png","audioUrl": "cobbler.mp3","lyrics":"Cobbler, cobbler, mend my shoe.\nGet it done by half past two.\nStitch it up and stitch it down.\nThen I’ll give you half a crown."},
+  {"id": 4, "letter": "Hickory...","imageUrl": "dog.png","audioUrl": "hecari.mp3","lyrics":"Hickory, dickory, dock,\nThe mouse ran up the clock,\nThe clock struck one,\nAnd down he run,\nHickory, dickory, dock."},
+  {"id": 5, "letter": "Ring-a...","imageUrl": "elephant.png","audioUrl": "ringa.mp3","lyrics":"Ring-a-ring o' roses,\nA pocket full of posies.\nA-tishoo! A-tishoo!\nWe all fall down!"},
+  {"id": 6, "letter": "Mary had a little lamb","imageUrl": "ship.png","audioUrl": "marry_little_lamb.mp3","lyrics":"Mary had a little lamb,\nIts fleece was white as snow.\nAnd everywhere that Mary went,\nThe lamb was sure to go.\nHe followed her to school one day,\nThat was against the rule.\nIt made the children laugh and play\nTo see a lamb at school."},
+  {"id": 7, "letter": "One,two, buckle my shoe","imageUrl": "giraffe.png","audioUrl": "buckle.mp3","lyrics":"One, two, buckle my shoe;\nThree, four, knock at the door;\nFive, six, pick up sticks;\nSeven, eight, lay them straight;\nNine, ten, a big fat hen;"},
+  {"id": 8, "letter": "Two little hands go clap","imageUrl": "horse.png","audioUrl": "two_little_hands.mp3","lyrics":"Two little hands go clap, clap, clap;\nTwo little feet go tap, tap, tap;\nTwo little eyes are open wide;\nOne little head goes side to side;"},
+  {"id": 9, "letter": "Two little dicky birds","imageUrl": "ice_cream.png","audioUrl": "twolittle.mp3","lyrics":"Two little dicky birds, sitting on a wall,\nOne named Peter, one named Paul.\nFly away, Peter! Fly away, Paul!\nCome back, Peter! Come back, Paul!"},
+  {"id": 10, "letter": "Teddy Bear","imageUrl": "jellyfish.png","audioUrl": "teddybear.mp3","lyrics":"Teddy bear, teddy bear,\n Turn around.\nTeddy bear, teddy bear,\n Touch the ground.\nTeddy bear, teddy bear,\n Polish yourshoe.\nTeddy bear, teddy bear\n Go to school."}
+     
+        
+]
